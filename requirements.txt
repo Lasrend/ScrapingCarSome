@@ -1,0 +1,11 @@
+bs4
+requests
+
+fastapi
+uvicorn
+typing
+pydantic
+psycopg2
+orator
+
+json
